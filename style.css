@@ -62,6 +62,10 @@ nav	{
 	body {
 		overflow-x: hidden;
 	}
+	nav {
+        position: relative;
+        } 
+	
 
 	.nav-links{
 		position: absolute;
